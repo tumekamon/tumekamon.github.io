@@ -1,5 +1,4 @@
 # Lab Challenge  – Cybersecurity Practical Achievements
-
 As part of my cybersecurity training, I have successfully completed the following practical labs:
 
 ## 1️⃣ DNS in Detail – TryHackMe
@@ -21,5 +20,4 @@ Achievement Link:
 https://academy.hackthebox.com/achievement/2382189/35
 
 ---
-
 These labs strengthened my understanding of networking, DNS analysis and cybersecurity fundamentals.
