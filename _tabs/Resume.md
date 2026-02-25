@@ -29,8 +29,8 @@ January 2008 – November 2015
 
 ## 💼 Work Experience
 
-### Developer  
-May 2023 – Present  
+### Developer @ SuperBridge Technologies
+May 2023 – 2024 
 
 **Key Responsibilities:**
 - Website maintenance and performance optimization  
@@ -42,9 +42,13 @@ May 2023 – Present
 
 ---
 
+### ICT Assistant  
+**Uhai Neema Hospital**  
+August 2024 – January 2025
+
 ### ICT In-Charge  
 **Uhai Neema Hospital**  
-May 2023 – Present  
+February 2025 –  To date
 
 **Key Responsibilities:**
 - Providing user support within the Hospital Management Information System (HMIS)  
