@@ -18,9 +18,8 @@ title: "Amon Tumek" # the main title
 
 tagline: " Cloud & Network Security Enthusiast | IT Support | Technical Writer" # it will display as the subtitle
 
-description: >- # used by seo meta and the atom feed
-  I am passionate about building secure, scalable, and reliable network systems.  
-Currently specializing in **Cloud and Network Security**, I focus on hands-on labs, cybersecurity tools, and real-world infrastructure configuration.
+description: "I am passionate about building secure, scalable, and reliable network systems.  
+Currently specializing in **Cloud and Network Security**, I focus on hands-on labs, cybersecurity tools, and real-world infrastructure configuration."
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
