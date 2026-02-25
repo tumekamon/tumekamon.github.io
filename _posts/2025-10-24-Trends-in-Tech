@@ -1,1 +1,26 @@
+---
+title: "Network Security in the Cloud Era"
+date: 2026-02-25 10:00:00 +0300
+categories: [Cloud, Cybersecurity]
+tags: [Network Security, Cloud, DNS, VLAN]
+---
 
+## Introduction
+
+As organizations move to cloud environments, network security remains a critical foundation. While infrastructure has shifted from physical devices to virtual systems, the core principles of secure network design still apply.
+
+---
+
+## Why Network Security Still Matters
+
+Cloud platforms introduce flexibility, scalability, and remote accessibility. However, they also expand the attack surface. Proper segmentation, controlled access, and continuous monitoring are essential to protect data and services.
+
+Technologies such as VLAN segmentation, secure DHCP configuration, and DNS management play a vital role in both traditional and cloud networks.
+
+---
+
+## The Key Takeaway
+
+Security in the cloud is not automatic — it must be designed, configured, and maintained. Mastering networking fundamentals is essential for building secure, scalable, and resilient cloud infrastructures.
+
+Network security is not just a technical requirement; it is the backbone of modern digital transformation.
